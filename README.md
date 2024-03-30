@@ -1,1 +1,1 @@
-# Smart-Dustbin-using-Arduino
+# Projects
